@@ -10,9 +10,9 @@ social:
   email: 29913569@qq.com
   github: //github.com/KNLion
   # wechat should be a path of qr-code image path
-  wechat: /assets/wechat.png
+  wechat: /assets/wechat.jpg
   # qq should be a path of qr-code image path
-  qq: /assets/qq.png
+  qq: /assets/qq.jpg
   telegram: 
   weibo: 
   zhihu: 
