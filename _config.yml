@@ -103,4 +103,4 @@ theme: landscape
 deploy:
   type: git
   repo: git@github.com:KNLion/KNLion.github.io.git
-  branch: master
+  branch: dev
